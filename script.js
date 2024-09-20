@@ -79,15 +79,3 @@ function reverse(s) {
 
 
 // stringInput = `Aline`
-
-// function reverse (stringInput) {
-//     const stringReverse = "";
-//     const i = this.length;
-//     while (i>0) {
-//         stringReverse += this.substring(i-1,i);
-//         i--;
-//     }
-//     return stringReverse;
-// }
-
-// reverse(stringInput)
